@@ -7,15 +7,15 @@ This is a very simple C project template using [autotools build system](https://
 
 Initialize scripts
 
-`autoreconf --install
+`autoreconf --install`
 
 Configure
 
-`./configure
+`./configure`
 
 Make & install
 
-`make && make install
+`make && make install`
 
 ## Useful resources
 
